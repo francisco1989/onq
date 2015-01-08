@@ -1,0 +1,2 @@
+App/config/Routes.php
+There is a line at the beginning which tells the application where to start whether it be posts or somewhere else.
