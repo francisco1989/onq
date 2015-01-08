@@ -1,0 +1,32 @@
+{
+    "name": "Sample Group",
+    "children": [{
+        "name": "Albert"
+    }, {
+        "name": "Beth"
+    }, {
+        "name": "Chris"
+    }, {
+        "name": "Damien"
+    }
+	, {
+        "name": "Ed"
+    }
+	, {
+        "name": "Frank"
+    }
+	, {
+        "name": "Gus"
+    }
+	, {
+        "name": "Hank"
+    }
+	, {
+        "name": "Ig"
+    }	
+	, {
+        "name": "Julie"
+    }
+	
+	]
+}
