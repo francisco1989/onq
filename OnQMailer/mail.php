@@ -147,7 +147,7 @@
 			$mail->Port       = 465;
 			
 			$mail->Username = "onqmail@gmail.com";  // SMTP username
-			$mail->Password = "Capstone"; // SMTP password
+			$mail->Password = ""; // SMTP password
 			
 			$mail->From = "onqmail@gmail.com";
 			$concact = checkProvider($provider);
